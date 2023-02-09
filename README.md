@@ -1,1 +1,1 @@
-shell basics project repository
+shell permissions
